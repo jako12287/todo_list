@@ -1,10 +1,14 @@
-import './App.css'
+import "./index.css"
+import CustomButtom from './@core/CustomButton'
 
 function App() {
 
   return (
     <>
-      TODOLIST
+
+      <CustomButtom>
+        Login
+      </CustomButtom>
     </>
   )
 }
