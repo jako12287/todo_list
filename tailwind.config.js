@@ -9,6 +9,7 @@ export default {
       colors: {
         primary: "#FFFFFF",
         secondary: "#4FC0B0",
+        secondaryHover: "#30A2FF",
         primaryLink: "#0019FA",
         customBlack: "#000000",
         customYellow1: "#FFE56950",
@@ -25,6 +26,16 @@ export default {
       },
       boxShadow: {
         custom: "5px 4px 5px rgba(0, 0, 0, 0.25)",
+        btn: "0px 4px 5px rgba(0, 0, 0, 0.25)",
+      },
+      fontSize: {
+        button: "24px",
+      },
+      fontWeight: {
+        SemiBold: "600",
+        Medium: "500",
+        Regular: "400",
+        Bold: "700",
       },
     },
   },
