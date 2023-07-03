@@ -30,12 +30,18 @@ export default {
       },
       fontSize: {
         button: "24px",
+        bigText: "50px",
+        mediumText: "30px",
+        labelText: "20px",
       },
       fontWeight: {
         SemiBold: "600",
         Medium: "500",
         Regular: "400",
         Bold: "700",
+      },
+      backgroundImage: {
+        texture: "url('./src/assets/texture.jpg')",
       },
     },
   },
