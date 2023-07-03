@@ -70,7 +70,6 @@ const Login = () => {
                 >
                     You do not have an account?
                 </Link>
-                I
             </div>
         </div>
     );
