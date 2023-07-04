@@ -2,6 +2,10 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+:root {
+  display: flex;
+  justify-content: center;
+}
 body {
   font-family: "Poppins", sans-serif;
 }

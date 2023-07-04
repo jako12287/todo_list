@@ -33,6 +33,7 @@ export default {
         bigText: "50px",
         mediumText: "30px",
         labelText: "20px",
+        textContent: "14px",
       },
       fontWeight: {
         SemiBold: "600",
@@ -42,6 +43,18 @@ export default {
       },
       backgroundImage: {
         texture: "url('./src/assets/texture.jpg')",
+      },
+      backgroundSize: {
+        custom: "36%",
+      },
+      width: {
+        cardPrimary: "600px",
+        cardSecondary: "450px",
+        left: "40%",
+        right: "60%",
+      },
+      borderRadius: {
+        card: "20px",
       },
     },
   },

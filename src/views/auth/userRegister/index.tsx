@@ -27,7 +27,7 @@ const UserRegister = () => {
         console.log(values);
     };
 
-    return <div className="h-screen flex select-none">
+    return <div className="h-screen flex select-none w-screen">
         <InformationCard
             text1="To Do List"
             text2="Thanks for registering"

@@ -24,7 +24,7 @@ const Login = () => {
         console.log(values);
     };
     return (
-        <div className="h-screen flex select-none">
+        <div className="h-screen flex select-none w-screen">
             <InformationCard
                 text1="To Do List"
                 text2="Welcome Back!"
